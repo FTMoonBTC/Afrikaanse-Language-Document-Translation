@@ -1,6 +1,6 @@
 # Hoe werk AI-NFT?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Hierdie diagram illustreer die argitektuur en funksionaliteit van AI-NFT's.
 
