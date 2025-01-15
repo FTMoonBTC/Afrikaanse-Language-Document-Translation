@@ -4,7 +4,7 @@ description: Jy besit AI-NFT, jy besit AI-agente.
 
 # Inleiding
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## Wat is AI-NFT?
 
